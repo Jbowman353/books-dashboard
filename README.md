@@ -1,2 +1,4 @@
 # books-dashboard
-React Frontend, Node backend, dashboard for viewing book data
+A simple application for viewing book data  
+React + Go
+  
